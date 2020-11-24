@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\ASUS\Desktop\비동기식 계산기\New\1. 쓰레드 동기화 X\Project1\Debug\Project1.exe</FullPath>
+      <FullPath>C:\Users\ASUS\Desktop\비동기식 계산기\New\2-1. 쓰레드 동기화 mutex 성공\Project1\Debug\Project1.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
